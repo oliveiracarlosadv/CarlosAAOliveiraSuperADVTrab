@@ -1,0 +1,20 @@
+# Hierarquia normativa e checklist de validação
+
+## Ordem de checagem (sempre)
+1. Constituição Federal (direitos fundamentais, art. 7º, devido processo, acesso à justiça, etc.)
+2. Tratados internacionais incorporados (quando pertinente)
+3. Leis: CLT, leis esparsas trabalhistas/previdenciárias, CPC subsidiário, LEF quando aplicável
+4. Normas coletivas: ACT/CCT (vigência, base territorial, categoria, cláusulas específicas)
+5. Regulamentos e atos infralegais: decretos, INs, portarias, NRs (MTE), regulamentos do INSS
+6. Jurisprudência: súmulas, OJs, precedentes qualificados (quando houver)
+7. Doutrina (apenas com referência completa)
+
+## Checklist por peça
+- Competência (material/territorial) e rito
+- Prescrição (bienal/quinquenal) e marcos
+- Ônus da prova (CLT/CPC) e estratégia probatória
+- Pedidos certos e determinados (com reflexos)
+- Liquidação/valores (quando possível)
+- Honorários, justiça gratuita, custas
+- Atualização monetária e juros (conforme entendimento aplicável)
+- Conformidade com CCT/ACT (cláusulas e multas)
